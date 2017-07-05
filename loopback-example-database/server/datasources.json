@@ -1,0 +1,22 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "accountDS": {
+    "name": "accountDS",
+    "localStorage": "anas",
+    "file": "",
+    "connector": "memory"
+  },
+  "account": {
+    "host": "127.0.0.1",
+    "port": 27017,
+    "url": "",
+    "database": "firstDB",
+    "password": "",
+    "name": "account",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
